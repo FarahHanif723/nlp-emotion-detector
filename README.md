@@ -6,7 +6,7 @@ A machine learning-based web app that detects emotions from text using Natural L
 Built with Python, Scikit-learn, and Streamlit.
 
 # Live Demo
-https://your-app-link.com
+[https://your-app-link.com](https://nlp-emotion-detector-zgntduswonuveep7xmranz.streamlit.app/)
 
 # Project Overview
 
